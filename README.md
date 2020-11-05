@@ -1,8 +1,9 @@
 # fractol
+
 A multithreaded fractal renderer.
 
 Features
-Render different fractals: mandelbrot, julia, burning ship
+Render different fractals: mandelbrot, julia, burning ship and barney
 Different color schemes (rotated and linear)
 Smooth and linear coloring
 Planned features
